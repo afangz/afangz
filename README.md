@@ -1,2 +1,3 @@
 Hi ,Here🐟
-![A's GitHub stats](https://github-readme-stats.vercel.app/api?username=afangz)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afangz)](https://github.com/afangz/github-readme-stats)
